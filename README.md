@@ -1,4 +1,4 @@
-Hierarchical Disjoint Principal Component Analysis via a coordinate descent algorithm.
+Hierarchical Disjoint Principal Component Analysis estimated via a coordinate descent algorithm.
 
 References:
 - Cavicchia, C., Vichi, M., Zaccaria, G. (2023) Hierarchical disjoint principal component analysis. _AStA Advances in Statistical Analysis_, 107(3), 537–574.
